@@ -1,0 +1,20 @@
+{
+    "name": "haiclover/bt3",
+    "description": "Web3",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Hai Clover",
+            "email": "haiclover@outlook.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": ""
+        }
+    },
+    "require": {
+        "phpoffice/phpspreadsheet": "^1.14",
+        "fzaninotto/faker": "^1.9"
+    }
+}
